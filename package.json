@@ -19,6 +19,5 @@
     "webpack-dev-server": "^3.10.1"
   },
   "keywords": ["flatpickr", "vue"],
-  "name": "flatpickr-in-vuejs-v3",
-  "description": "https://github.com/ankurk91/vue-flatpickr-component/issues/198"
+  "name": "flatpickr-in-vuejs-v3"
 }
